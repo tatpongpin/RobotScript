@@ -8,8 +8,7 @@ Library    SeleniumLibrary
     Wait Until Page Contains 	 facebook 	 2 	
     Click Button 	name=btnK
     Click Link  https://th-th.facebook.com/
-test second commit git
-test pull from vscode
+test third commit git
     
 
     
